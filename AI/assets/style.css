@@ -1,0 +1,23 @@
+/* Customize Streamlit app fonts and colors */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1, h2, h3 {
+    color: #2a9d8f;
+}
+
+.stButton>button {
+    background-color: #264653;
+    color: rgb(191, 184, 223);
+}
+
+.stButton>button:hover {
+    background-color: #1b4332;
+}
+
+/* Sidebar styling */
+[data-testid="stSidebar"] {
+    background-color: #2da587;
+    padding: 20px;
+}
