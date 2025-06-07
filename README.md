@@ -40,21 +40,3 @@ An intelligent and interactive web app built with **Streamlit** and **OpenAI**, 
 2. The app matches these inputs against a curated list of programs.
 3. It constructs a dynamic **OpenAI prompt** to generate personalized guidance.
 4. Students receive both **matching academic programs** and **tailored application advice**.
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
-
----
-
-## 🙌 Contributing
-
-Contributions are welcome! If you have suggestions or want to help improve the app, feel free to open an issue or submit a pull request.
-
----
-
-## 💡 Credits
-
-Built with ❤️ using Streamlit and OpenAI by [Your Name]
