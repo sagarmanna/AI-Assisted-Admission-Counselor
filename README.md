@@ -1,66 +1,60 @@
 # 🎓 AI-Assisted Admission Counselor
 
-An intelligent and interactive web app built with **Streamlit** + **OpenAI** to help students discover personalized academic programs based on their **interests, strengths, and preferences**.
+An intelligent and interactive web app built with **Streamlit** and **OpenAI**, designed to help students discover personalized academic programs based on their **interests, strengths, and preferences**.
 
-🔮 Uses **AI to generate tailored recommendations and application advice** for students looking to pursue undergraduate, postgraduate, or PhD programs.
+🔮 Leverages **AI to generate tailored recommendations and application advice** for students pursuing undergraduate, postgraduate, or PhD studies.
 
 ---
 
 ## 🌐 Live App
 
-🔗 **Click here to access the live app**  
+🔗 **Try it now**  
 👉 [AI-Assisted Admission Counselor](https://ai-assisted-admission-counselor-xx55sgedyay8dn2swqsefg.streamlit.app/)
 
 ---
 
-## 📌 Features
+## 📌 Key Features
 
-✅ Create or import your profile  
-✅ Select academic interests & strengths  
+✅ Create or import a student profile  
+✅ Select academic interests and strengths  
 ✅ Choose preferred location and program type  
-✅ Discover matched programs  
-✅ Get **AI-generated application advice**  
-✅ Download / Upload your profile as JSON  
-✅ Simple and clean user interface with animations
+✅ Discover AI-matched programs  
+✅ Receive **personalized application advice**  
+✅ Download or upload your profile in JSON format  
+✅ Clean, user-friendly interface with engaging animations
 
 ---
 
 ## 🚀 Tech Stack
 
-- [Streamlit](https://streamlit.io/) — Python-based web app framework  
-- [OpenAI GPT-3](https://platform.openai.com/) — for generating smart advice  
-- [Lottie Animations](https://lottiefiles.com/) — engaging animated visuals  
-- Python modules: `streamlit`, `openai`, `requests`, `streamlit-option-menu`, `streamlit-lottie`
+- [Streamlit](https://streamlit.io/) – Python-based web framework  
+- [OpenAI GPT-3](https://platform.openai.com/) – for AI-driven recommendations  
+- [Lottie Animations](https://lottiefiles.com/) – smooth, interactive visuals  
+- Python Libraries: `streamlit`, `openai`, `requests`, `streamlit-option-menu`, `streamlit-lottie`
 
 ---
 
 ## 🧠 How It Works
 
-1. The user fills out a profile with their **academic interests**, **personal strengths**, and **preferences**.
-2. The app filters through pre-defined programs using keyword matching.
-3. An OpenAI prompt is generated to give meaningful, personalized advice.
-4. The student receives **relevant programs + AI advice** for applications.
-
----
-
-## 📷 Demo Screenshot
-
-![AI Admissions Counselor Screenshot](https://user-images.githubusercontent.com/00000000/ai-counselor-demo.png) <!-- Replace with your actual screenshot URL -->
+1. The user fills out a custom profile with their **interests, strengths, and preferences**.
+2. The app matches these inputs against a curated list of programs.
+3. It constructs a dynamic **OpenAI prompt** to generate personalized guidance.
+4. Students receive both **matching academic programs** and **tailored application advice**.
 
 ---
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
 ---
 
 ## 🙌 Contributing
 
-Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
+Contributions are welcome! If you have suggestions or want to help improve the app, feel free to open an issue or submit a pull request.
 
 ---
 
 ## 💡 Credits
 
-Created with ❤️ using Streamlit and OpenAI by [Your Name]
+Built with ❤️ using Streamlit and OpenAI by [Your Name]
